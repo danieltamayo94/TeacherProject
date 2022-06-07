@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3775041348
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: estudiantes.json
+      Dependencies: {}

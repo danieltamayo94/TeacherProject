@@ -1,0 +1,41 @@
+{
+	"datos":[
+	 
+	{  "codigo_identificacion":"015",
+		"nombre":"Mateo",
+		"apellido":"Garzon",
+		"correo_institucional":"Garzon@gmail.com",
+		"nota_final":5.0
+	},
+
+	{  "codigo_identificacion":"020",
+		"nombre":"Juan",
+		"apellido":"Benitez",
+		"correo_institucional":"juan@gmail.com",
+		"nota_final":4.2
+	},
+
+	{  "codigo_identificacion":"005",
+	"nombre":"Leandro",
+	"apellido":"Gutierrez",
+	"correo_institucional":"gutierrez@gmail.com",
+	"nota_final":2.5
+	},
+
+	{  "codigo_identificacion":"015",
+		"nombre":"Mateo",
+		"apellido":"Garzon",
+		"correo_institucional":"Garzon@gmail.com",
+		"nota_final":5.0
+	},
+
+	{  "codigo_identificacion":"015",
+		"nombre":"Mateo",
+		"apellido":"Garzon",
+		"correo_institucional":"Garzon@gmail.com",
+		"nota_final":5.0
+	}
+	
+
+	 ]
+}
